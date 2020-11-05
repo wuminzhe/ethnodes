@@ -1,3 +1,3 @@
 nodes:
-  - https://ropsten.infura.io/v3/f1281690a4da499cae36636d7da89166
-  - https://ropsten.infura.io/v3/ea201b130d9a44f3b374aab5e53e41ad
+  - https://node1:8545
+  - https://node2:8545
