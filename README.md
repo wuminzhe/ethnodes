@@ -1,5 +1,7 @@
 # ethnodes
 
+0. ruby installed
+
 1. install
 
 ```
